@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Markdown Previewer
+This project was a learning experience to getting to know React.js.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple Markdown editor that converts it to HTML and renders it in a preview.
 
 ## Available Scripts
 
